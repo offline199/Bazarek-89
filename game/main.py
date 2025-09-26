@@ -8,6 +8,7 @@ from game.screens.menu import MenuScreen
 # Initialize Pygame
 def main():
     pygame.init()
+    pygame.mixer.init()
 
     screen = pygame.display.set_mode(RESOLUTION)
     pygame.display.set_caption(NAME)

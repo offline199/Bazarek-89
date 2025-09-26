@@ -9,6 +9,10 @@ FONTS = {
     "display": "game/resources/fonts/ari-w9500-display.ttf",
 }
 
+SOUNDS = {
+    "start": "game/resources/sounds/start.wav",
+}
+
 COLORS = {
     "BLACK": (0, 0, 0),
     "WHITE": (255, 255, 255),
